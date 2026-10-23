@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-📊 Learning to turn raw data into meaningful insights
+📊 Learning to turn raw data into meaningful insights<br/>
 🚀 Exploring ML, LLMs & RAG through hands-on projects
 
 > **Growth is built, not found.**
