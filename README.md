@@ -42,7 +42,7 @@ I blend analytical thinking with hands-on development to build solutions that ar
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/abirami-k-1a11aa308/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abirami-k-1a11aa308/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a> 
 </p>
 
 ---
