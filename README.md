@@ -38,7 +38,7 @@
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/abirami-k-1a11aa308/"><img src="https://img.shields.io/badge/Connect_with_me_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" height="34" /></a> 
+  <a href="https://www.linkedin.com/in/abirami-k-1a11aa308/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ---
