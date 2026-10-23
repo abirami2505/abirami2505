@@ -3,15 +3,15 @@
 <p align="center">
   <b>B.Tech | Artificial Intelligence & Data Science</b><br/>
   <b>Data Analyst | ML Explorer</b><br/><br/>
-  <i>"Without data, you're just another person with an opinion."</i>
+  <i>"Exploring where AI meets thoughtful design"</i>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-Final-year AI & Data Science student who turns raw data into clear, actionable insights.
-I blend analytical thinking with hands-on development to build solutions that are both smart and practical.
+📊 Learning to turn raw data into meaningful insights
+🚀 Exploring ML, LLMs & RAG through hands-on projects
 
 > **Growth is built, not found.**
 
@@ -19,9 +19,7 @@ I blend analytical thinking with hands-on development to build solutions that ar
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,mysql,numpy,pandas" />
-</p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> </p>
 
 ### 🤖 AI
 
@@ -33,9 +31,7 @@ I blend analytical thinking with hands-on development to build solutions that ar
 
 ### 🧰 Tools Used
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma" />
-</p>
+<p> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> </p>
 
 ---
 
